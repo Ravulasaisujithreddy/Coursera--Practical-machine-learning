@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning - Final Project"
-author: "Dhinesh karthick"
+author: "Ravula Sai Sujith Reddy"
 date: "10/23/2021"
 output: html_document
 ---
